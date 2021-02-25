@@ -1,0 +1,7 @@
+C:\Users\iosif\source\repos\MyMenu\MyMenu\bin\Debug\MyMenu.exe.config
+C:\Users\iosif\source\repos\MyMenu\MyMenu\bin\Debug\MyMenu.exe
+C:\Users\iosif\source\repos\MyMenu\MyMenu\bin\Debug\MyMenu.pdb
+C:\Users\iosif\source\repos\MyMenu\MyMenu\obj\Debug\MyMenu.csprojAssemblyReference.cache
+C:\Users\iosif\source\repos\MyMenu\MyMenu\obj\Debug\MyMenu.csproj.CoreCompileInputs.cache
+C:\Users\iosif\source\repos\MyMenu\MyMenu\obj\Debug\MyMenu.exe
+C:\Users\iosif\source\repos\MyMenu\MyMenu\obj\Debug\MyMenu.pdb
